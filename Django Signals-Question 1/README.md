@@ -54,4 +54,9 @@ def create_user(request):
 
 ### Test Output 
 When accessing the /create-user/ URL, the output will clearly show that the total time taken includes the 5-second delay, proving that the signal handler is executed synchronously.
+Terminal Output:
+![Image 2024-10-10 at 11 08 55_50bc0df8](https://github.com/user-attachments/assets/427e0d94-ea24-4bb4-9855-bbd935351e15)
+
+Web Page output:
+![image](https://github.com/user-attachments/assets/223a2fc8-a8d9-4690-8b95-45e32b9e2d0f)
 
