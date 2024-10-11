@@ -44,6 +44,11 @@ def create_user_view(request):
 
 ### Test Output 
 When we access the URL that maps to the create_user_view, the output will include the thread names from both the view and the signal handler:
+Terminal Output:
+![Image 2024-10-10 at 11 39 14_08199ec0](https://github.com/user-attachments/assets/a7f5c09f-7bbd-4300-9531-4b335ffa38e5)
+
+Web Page Output:
+![image](https://github.com/user-attachments/assets/2cc86203-4e04-47f2-98f0-9255574905b0)
 
 
 
