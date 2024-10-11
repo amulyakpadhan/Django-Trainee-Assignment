@@ -1,7 +1,7 @@
 # Django-Trainee-Assignment
 
 **Author:** Amulya Kumar Padhan  
-**Assignment:** Django Trainee Technical Round
+**Assignment:** Django Trainee Technical Round at Accuknox
 
 
 This repository contains solutions to the technical round tasks assigned as part of the Django Trainee interview process at Accuknox. The tasks cover various aspects of Django signals and Python custom classes. Each folder contains the relevant Django project or Python implementation, with explanations provided in individual `README.md` files.
