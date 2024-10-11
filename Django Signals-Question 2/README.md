@@ -43,7 +43,7 @@ def create_user_view(request):
 ```
 
 ### Test Output 
-When you access the URL that maps to the create_user_view, the output will include the thread names from both the view and the signal handler:
+When we access the URL that maps to the create_user_view, the output will include the thread names from both the view and the signal handler:
 
 
 
