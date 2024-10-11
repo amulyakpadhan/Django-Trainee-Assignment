@@ -60,3 +60,5 @@ Terminal Output:
 Web Page output:
 ![image](https://github.com/user-attachments/assets/223a2fc8-a8d9-4690-8b95-45e32b9e2d0f)
 
+
+**Note:** This repository contains a complete Django project to answer this question as described above. 
