@@ -62,8 +62,11 @@ def create_user_view(request):
 
 ### Test Output 
 When accessing the URL mapped to create_user_view, the response will indicate whether the user was created or not:
+Terminal Output:
+![image](https://github.com/user-attachments/assets/e24fcc37-1d7f-4810-9870-4fbcd1493f2c)
 
-
+Web Page Output:
+![image](https://github.com/user-attachments/assets/1b2b13db-48b3-4723-9a8f-c03ebdebc11a)
 
 
 ## Conclusion
