@@ -1,6 +1,5 @@
-# Topic: Django Signals
-
-Question 1: By default are django signals executed synchronously or asynchronously? Please support your answer with a code snippet that conclusively proves your stance. The code does not need to be elegant and production ready, we just need to understand your logic.
+# Topic: Django Signals Question 1
+By default are django signals executed synchronously or asynchronously? Please support your answer with a code snippet that conclusively proves your stance. The code does not need to be elegant and production ready, we just need to understand your logic.
 
 
 ## Answer
@@ -53,12 +52,15 @@ def create_user(request):
 ```
 
 ### Test Output 
-When accessing the /create-user/ URL, the output will clearly show that the total time taken includes the 5-second delay, proving that the signal handler is executed synchronously.
+When accessing the /create-user/ URL, the output will indicate that the total time taken includes the 5-second delay or not:
 Terminal Output:
 ![Image 2024-10-10 at 11 08 55_50bc0df8](https://github.com/user-attachments/assets/427e0d94-ea24-4bb4-9855-bbd935351e15)
 
 Web Page output:
 ![image](https://github.com/user-attachments/assets/223a2fc8-a8d9-4690-8b95-45e32b9e2d0f)
 
+
+## Conclusion
+When accessing the /create-user/ URL, the output will clearly show that the total time taken includes the 5-second delay, proving that the signal handler is executed synchronously.
 
 **Note:** This repository contains a complete Django project to answer this question as described above. 
